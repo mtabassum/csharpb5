@@ -6,6 +6,7 @@ namespace QuestionNo1
 {
     public class Shape
     {
+
        
     }
 
@@ -14,19 +15,55 @@ namespace QuestionNo1
     {
         float radius;
 
+        public override double CalculateArea(double radius)
+        {
+
+            double area = 3.14 * radius * radius;
+            return area;
+        }
+
+        public override double CalculatePerimeter(double radius)
+        {
+
+            double perimeter = 2 * 3.14 * radius;
+            return perimeter;
+        }
 
 
     }
 
     public class Rectangle: Shape
     {
-        float width, height;
+        double width, height;
+        public override double CalculateArea(double width, double height)
+        {
+
+            double area = width * height;
+            return area;
+        }
+
+        public override double CalculatePerimeter(double width, double height)
+        {
+
+            double perimeter = 2*width + 2*height;
+            return perimeter;
+        }
 
     }
 
     public class Triangle: Shape
     {
-        float side1, side2, side3;
+        double side1, side2, side3;
+        public override double CalculateArea(double side1, double side2, double side3)
+        {
+            double area = 0.5 * side1 * side2;
+            return area;
+        }
+        public override double CalculatePerimeter(double side1, double side2, double side3)
+        {
 
+            double perimeter = side1+side2+side3;
+            return perimeter;
+        }
     }
 }

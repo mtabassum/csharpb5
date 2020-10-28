@@ -4,11 +4,10 @@ using System.Text;
 
 namespace QuestionNo1
 {
-    public class Geometry
+    public abstract class Geometry
     {
+        public abstract double CalculateArea(Shape shape);
 
-        CalculateArea(Shape shape);
-
-        CalculatePerimeter(Shape shape);
+        public abstract double CalculatePerimeter(Shape shape);
     }
 }
