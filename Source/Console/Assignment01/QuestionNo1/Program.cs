@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace QuestionNo1
 {
-    public  class Shape
+    public class Shape
     {
         public Shape()
         {
@@ -22,14 +20,12 @@ namespace QuestionNo1
         public Rectangle ARectangle { get => aRectangle; set => aRectangle = value; }
         public Triangle ATriangle { get => aTriangle; set => aTriangle = value; }
 
-
-
     }
 
 
     public class Circle
     {
-       private double radius;
+        private double radius;
 
         public double Radius { get => radius; set => radius = value; }
     }
@@ -54,26 +50,28 @@ namespace QuestionNo1
         public double Side3 { get => side3; set => side3 = value; }
     }
 
-    class Program {
-    public static void Main()
+    class Program
     {
-        double radius, width, height, side1, side2, side3;
-        Console.WriteLine("Enter the radius for square");
-        radius = double.Parse(Console.ReadLine());
-        Console.WriteLine("Enter the width for rectangle");
-        width = double.Parse(Console.ReadLine());
-        Console.WriteLine("Enter the height for rectangle");
-        height = double.Parse(Console.ReadLine());
-        Console.WriteLine("Enter the side1 for triangle");
-        side1 = double.Parse(Console.ReadLine());
-        Console.WriteLine("Enter the side2 for triangle");
-        side2 = double.Parse(Console.ReadLine());
-        Console.WriteLine("Enter the side3 for triangle");
-        side3 = double.Parse(Console.ReadLine());
+        public static void Main()
+        {
+            double radius, width, height, side1, side2, side3;
+            Console.WriteLine("Enter the radius for square");
+            radius = double.Parse(Console.ReadLine());
+            Console.WriteLine("Enter the width for rectangle");
+            width = double.Parse(Console.ReadLine());
+            Console.WriteLine("Enter the height for rectangle");
+            height = double.Parse(Console.ReadLine());
+            Console.WriteLine("Enter the side1 for triangle");
+            side1 = double.Parse(Console.ReadLine());
+            Console.WriteLine("Enter the side2 for triangle");
+            side2 = double.Parse(Console.ReadLine());
+            Console.WriteLine("Enter the side3 for triangle");
+            side3 = double.Parse(Console.ReadLine());
 
             Shape ashape = new Shape();
-            
+
             ashape.Acircle.Radius = radius;
+
             ashape.ARectangle.Height = height;
             ashape.ARectangle.Width = width;
 
@@ -83,9 +81,10 @@ namespace QuestionNo1
 
             Geometry geometry = new Geometry();
             geometry.CalculateArea(ashape);
+            geometry.CalculatePerimeter(ashape);
 
-            Circle shape ;
-           
+
         }
     }
+
 }

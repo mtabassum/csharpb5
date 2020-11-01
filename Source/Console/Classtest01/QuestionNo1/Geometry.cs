@@ -4,10 +4,21 @@ using System.Text;
 
 namespace QuestionNo1
 {
-    public abstract class Geometry
+    public  class Geometry
     {
-        public abstract double CalculateArea(Shape shape);
+        public void  CalculateArea(Shape shape)
+        {
 
-        public abstract double CalculatePerimeter(Shape shape);
+            var circleArea = 3.1416 * (shape.Acircle.Radius * shape.Acircle.Radius);
+
+            Console.WriteLine(circleArea);
+
+
+        }
+
+        public  void CalculatePerimeter(Shape shape)
+        {
+            
+        }
     }
 }
