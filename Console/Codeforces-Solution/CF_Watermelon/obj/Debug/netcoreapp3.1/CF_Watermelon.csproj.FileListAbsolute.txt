@@ -1,0 +1,13 @@
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_Watermelon\bin\Debug\netcoreapp3.1\CF_Watermelon.exe
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_Watermelon\bin\Debug\netcoreapp3.1\CF_Watermelon.deps.json
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_Watermelon\bin\Debug\netcoreapp3.1\CF_Watermelon.runtimeconfig.json
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_Watermelon\bin\Debug\netcoreapp3.1\CF_Watermelon.runtimeconfig.dev.json
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_Watermelon\bin\Debug\netcoreapp3.1\CF_Watermelon.dll
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_Watermelon\bin\Debug\netcoreapp3.1\CF_Watermelon.pdb
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_Watermelon\obj\Debug\netcoreapp3.1\CF_Watermelon.csprojAssemblyReference.cache
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_Watermelon\obj\Debug\netcoreapp3.1\CF_Watermelon.AssemblyInfoInputs.cache
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_Watermelon\obj\Debug\netcoreapp3.1\CF_Watermelon.AssemblyInfo.cs
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_Watermelon\obj\Debug\netcoreapp3.1\CF_Watermelon.csproj.CoreCompileInputs.cache
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_Watermelon\obj\Debug\netcoreapp3.1\CF_Watermelon.dll
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_Watermelon\obj\Debug\netcoreapp3.1\CF_Watermelon.pdb
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_Watermelon\obj\Debug\netcoreapp3.1\CF_Watermelon.genruntimeconfig.cache

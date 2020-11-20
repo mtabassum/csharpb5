@@ -1,0 +1,13 @@
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_StringTask\bin\Debug\netcoreapp3.1\CF_StringTask.exe
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_StringTask\bin\Debug\netcoreapp3.1\CF_StringTask.deps.json
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_StringTask\bin\Debug\netcoreapp3.1\CF_StringTask.runtimeconfig.json
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_StringTask\bin\Debug\netcoreapp3.1\CF_StringTask.runtimeconfig.dev.json
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_StringTask\bin\Debug\netcoreapp3.1\CF_StringTask.dll
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_StringTask\bin\Debug\netcoreapp3.1\CF_StringTask.pdb
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_StringTask\obj\Debug\netcoreapp3.1\CF_StringTask.csprojAssemblyReference.cache
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_StringTask\obj\Debug\netcoreapp3.1\CF_StringTask.AssemblyInfoInputs.cache
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_StringTask\obj\Debug\netcoreapp3.1\CF_StringTask.AssemblyInfo.cs
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_StringTask\obj\Debug\netcoreapp3.1\CF_StringTask.csproj.CoreCompileInputs.cache
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_StringTask\obj\Debug\netcoreapp3.1\CF_StringTask.dll
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_StringTask\obj\Debug\netcoreapp3.1\CF_StringTask.pdb
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_StringTask\obj\Debug\netcoreapp3.1\CF_StringTask.genruntimeconfig.cache

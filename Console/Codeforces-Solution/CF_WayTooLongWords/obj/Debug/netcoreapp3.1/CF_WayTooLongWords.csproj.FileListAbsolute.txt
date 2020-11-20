@@ -1,0 +1,13 @@
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_WayTooLongWords\bin\Debug\netcoreapp3.1\CF_WayTooLongWords.exe
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_WayTooLongWords\bin\Debug\netcoreapp3.1\CF_WayTooLongWords.deps.json
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_WayTooLongWords\bin\Debug\netcoreapp3.1\CF_WayTooLongWords.runtimeconfig.json
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_WayTooLongWords\bin\Debug\netcoreapp3.1\CF_WayTooLongWords.runtimeconfig.dev.json
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_WayTooLongWords\bin\Debug\netcoreapp3.1\CF_WayTooLongWords.dll
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_WayTooLongWords\bin\Debug\netcoreapp3.1\CF_WayTooLongWords.pdb
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_WayTooLongWords\obj\Debug\netcoreapp3.1\CF_WayTooLongWords.csprojAssemblyReference.cache
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_WayTooLongWords\obj\Debug\netcoreapp3.1\CF_WayTooLongWords.AssemblyInfoInputs.cache
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_WayTooLongWords\obj\Debug\netcoreapp3.1\CF_WayTooLongWords.AssemblyInfo.cs
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_WayTooLongWords\obj\Debug\netcoreapp3.1\CF_WayTooLongWords.csproj.CoreCompileInputs.cache
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_WayTooLongWords\obj\Debug\netcoreapp3.1\CF_WayTooLongWords.dll
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_WayTooLongWords\obj\Debug\netcoreapp3.1\CF_WayTooLongWords.pdb
+D:\Code\csharpb5\Console\Codeforces-Solution\CF_WayTooLongWords\obj\Debug\netcoreapp3.1\CF_WayTooLongWords.genruntimeconfig.cache
