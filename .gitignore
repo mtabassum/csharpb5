@@ -1,3 +1,5 @@
-﻿/Console/Codeforces-Solution/.vs/Codeforces-Solution/DesignTimeBuild
-/Console/Codeforces-Solution/.vs/Codeforces-Solution/v16/.suo
+﻿**/.vs
+**/bin
+**/obj
+
 /Console/Codeforces-Solution/CF_TheatreSquare
