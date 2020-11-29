@@ -8,7 +8,7 @@
 
 using System;
 
-namespace CF_StringTask
+namespace CF_118A_StringTask
 {
    class Program
    {
