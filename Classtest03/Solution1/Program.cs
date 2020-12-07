@@ -8,8 +8,6 @@ namespace Solution1
         {
             int co1, co2;
 
-            Console.Write("Find the quadrant in which the coordinate point lies:\n");
-
             Console.Write("Input the value for X coordinate :");
             co1 = Convert.ToInt32(Console.ReadLine());
             Console.Write("Input the value for Y coordinate :");
