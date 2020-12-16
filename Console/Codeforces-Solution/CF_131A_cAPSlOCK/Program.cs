@@ -7,6 +7,7 @@ using Microsoft.VisualBasic.CompilerServices;
 namespace CF_131A_cAPSlOCK
 {
     class Program
+
     {
         static void Main(string[] args)
         {
