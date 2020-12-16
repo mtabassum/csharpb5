@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CF_131A_cAPSlOCK", "CF_131A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CF_977A_WrongSubtraction", "CF_977A_WrongSubtraction\CF_977A_WrongSubtraction.csproj", "{997A0EFE-B1D9-49F0-994D-D1AA59F51A07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CF_510A_Fox-Snake", "CF_510A_Fox-Snake\CF_510A_Fox-Snake.csproj", "{7914C3E6-8A12-404A-8631-93D7C5DBB079}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{997A0EFE-B1D9-49F0-994D-D1AA59F51A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{997A0EFE-B1D9-49F0-994D-D1AA59F51A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{997A0EFE-B1D9-49F0-994D-D1AA59F51A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7914C3E6-8A12-404A-8631-93D7C5DBB079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7914C3E6-8A12-404A-8631-93D7C5DBB079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7914C3E6-8A12-404A-8631-93D7C5DBB079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7914C3E6-8A12-404A-8631-93D7C5DBB079}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
