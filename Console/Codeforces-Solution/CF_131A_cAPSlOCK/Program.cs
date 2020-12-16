@@ -6,9 +6,8 @@ using Microsoft.VisualBasic.CompilerServices;
 
 namespace CF_131A_cAPSlOCK
 {
-    class Program
-
-    {
+    class Programm
+    { 
         static void Main(string[] args)
         {
             var allLetterCapital = true;
